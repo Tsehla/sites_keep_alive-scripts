@@ -5,6 +5,7 @@ const cron = require('node-cron');
 const linksToPing = [
   'https://infolexicon.onrender.com/',
   'https://wikiachive.onrender.com/',
+  'https://infolexicon-automated-contents-get.onrender.com/',
   // Add more links as needed
 ];
 
